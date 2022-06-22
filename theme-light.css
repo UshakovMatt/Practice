@@ -1,0 +1,60 @@
+h1 {
+    color: #000000;
+}
+.social-light {
+    display: block;
+}
+.social-dark {
+    display: none;
+}
+#sec-1 {
+    background-color: #c9c7c7;
+}
+#sec-2 {
+    background-color: #c0c0c0;
+}
+#sec-3 {
+    background-color: #c9c7c7;
+}
+
+h4 {
+    color: #000000;
+}
+p {
+    color: #000000;
+}
+.wrapper .icon i {
+    color: #ffffff;
+}
+.wrapper .tooltip {
+    background-color: #fff;
+    color: #000000;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.1);
+}
+.wrapper .icon:hover span,
+.wrapper .icon:hover .tooltip {
+    text-shadow: 0px -1px 0px rgba(0, 0, 0, 0.1);
+}
+.wrapper .icon:hover::before {
+    color: #000;
+}
+.wrapper .icon:hover::after {
+    color: #000;
+}
+.card {
+    background: #ffffff;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+.card .title {
+    color: #222222;
+}
+.card .text {
+    color: #222222;
+}
+.theme {
+    background: #ffffff;
+    box-shadow: 0 0 10px rgba(39,38,40,0.4);
+}
+.text-2nd{
+    color: #000000;
+}
